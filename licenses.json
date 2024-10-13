@@ -1,7 +1,16 @@
 {
-  "licenses": [
-    "Zeex",
-    "EXAMPLE-LICENSE-123456",
-    "ANOTHER-LICENSE-7890"
-  ]
+    "licenses": [
+        {
+            "code": "Zeex",
+            "name": "Zeexxd"
+        },
+        {
+            "code": "ios",
+            "name": "XD"
+        },
+        {
+            "code": "god",
+            "name": "kks"
+        }
+    ]
 }
